@@ -1,0 +1,18 @@
+<idea-plugin>
+    <id>com.codehouse.plugin.CodeHousePlugin</id>
+    <name>CodeHouse</name>
+    <vendor email="ssmomi@uwaterloo.ca" url="https://www.uwaterloo.ca">CodeHouse Team</vendor>
+
+    <description>
+        Enables comprehensive search throughout your entire codebase and other related materials.
+    </description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        
+    </extensions>
+
+    <actions>
+    </actions>
+</idea-plugin>
